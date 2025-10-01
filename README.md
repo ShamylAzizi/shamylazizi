@@ -2,7 +2,7 @@
  
 🌟 Aspiring analyst building proficiency while exploring opportunities across industries
 <br/>
-📚 Studied Business Analytics at the Monash University in Selangor, Malaysia
+📚 Studied Business Analytics at the Monash University in Malaysia
 <br/>
 📊 Currently working on a personal analytics project using SQL and Power BI!
 
